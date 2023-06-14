@@ -1453,4 +1453,14 @@ QBShared.Vehicles = {
         ['hash'] = `honcrx91`, -- spawncode
         ['shop'] = 'pdm', -- shop name
     },
+	['honcrx91'] = {  --spawn code
+        ['name'] = 'CRX siR 1991', -- car name
+        ['brand'] = 'Honda', -- car brand
+        ['model'] = 'honcrx91', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'Honda', -- category
+        ['categoryLabel'] = 'Honda', -- Cat label
+        ['hash'] = `honcrx91`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
 }
