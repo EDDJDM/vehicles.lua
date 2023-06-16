@@ -1873,4 +1873,204 @@ QBShared.Vehicles = {
         ['hash'] = `03impa`, -- spawncode
         ['shop'] = 'pdm', -- shop name
     },
+	['03sierra'] = {  --spawn code
+        ['name'] = 'sierra 2003', -- car name
+        ['brand'] = 'gmc', -- car brand
+        ['model'] = '03sierra', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'gmc', -- category
+        ['categoryLabel'] = 'gmc', -- Cat label
+        ['hash'] = `03sierra`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['15carv'] = {  --spawn code
+        ['name'] = 'caravan 2015', -- car name
+        ['brand'] = 'dodge', -- car brand
+        ['model'] = '15carv', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'dodge', -- category
+        ['categoryLabel'] = 'dodge', -- Cat label
+        ['hash'] = `15carv`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['21dura'] = {  --spawn code
+        ['name'] = 'durango 2021', -- car name
+        ['brand'] = 'dodge', -- car brand
+        ['model'] = '21dura', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'dodge', -- category
+        ['categoryLabel'] = 'dodge', -- Cat label
+        ['hash'] = `21dura`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['21ltz'] = {  --spawn code
+        ['name'] = 'camaro 2021', -- car name
+        ['brand'] = 'chevy', -- car brand
+        ['model'] = '21ltz', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'chevy', -- category
+        ['categoryLabel'] = 'chevy', -- Cat label
+        ['hash'] = `21ltz`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22ct4'] = {  --spawn code
+        ['name'] = 'ct4 2022', -- car name
+        ['brand'] = 'cadillac', -- car brand
+        ['model'] = '22ct4', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'cadillac', -- category
+        ['categoryLabel'] = 'cadillac', -- Cat label
+        ['hash'] = `22ct4`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22f450xl'] = {  --spawn code
+        ['name'] = 'f450 2022', -- car name
+        ['brand'] = 'ford', -- car brand
+        ['model'] = '22f450xl', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ford', -- category
+        ['categoryLabel'] = 'ford', -- Cat label
+        ['hash'] = `22f450xl`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['488lb'] = {  --spawn code
+        ['name'] = '488 2019', -- car name
+        ['brand'] = 'ferrari', -- car brand
+        ['model'] = '488lb', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ferrari', -- category
+        ['categoryLabel'] = 'ferrari', -- Cat label
+        ['hash'] = `488lb`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['650spider'] = {  --spawn code
+        ['name'] = '650 spider 2017', -- car name
+        ['brand'] = 'ferrari', -- car brand
+        ['model'] = '650spider', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ferrari', -- category
+        ['categoryLabel'] = 'ferrari', -- Cat label
+        ['hash'] = `650spider`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['16m5'] = {  --spawn code
+        ['name'] = 'm5 2016', -- car name
+        ['brand'] = 'bmw', -- car brand
+        ['model'] = '16m5', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'bmw', -- category
+        ['categoryLabel'] = 'bmw', -- Cat label
+        ['hash'] = `16m5`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['f812'] = {  --spawn code
+        ['name'] = '812 2017', -- car name
+        ['brand'] = 'ferrari', -- car brand
+        ['model'] = 'f812', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ferrari', -- category
+        ['categoryLabel'] = 'ferrari', -- Cat label
+        ['hash'] = `f812`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['gcm992gt3'] = {  --spawn code
+        ['name'] = '992 gt3 2021', -- car name
+        ['brand'] = 'porsche', -- car brand
+        ['model'] = 'gcm992gt3', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'porsche', -- category
+        ['categoryLabel'] = 'porsche', -- Cat label
+        ['hash'] = `gcm992gt3`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['gcmcls2021'] = {  --spawn code
+        ['name'] = 'cls 2021', -- car name
+        ['brand'] = 'mercedes', -- car brand
+        ['model'] = 'gcmcls2021', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'mercedes', -- category
+        ['categoryLabel'] = 'mercedes', -- Cat label
+        ['hash'] = `gcmcls2021`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['wraith'] = {  --spawn code
+        ['name'] = 'wraithh 2021', -- car name
+        ['brand'] = 'rolls royce', -- car brand
+        ['model'] = 'wraith', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'rolls royce', -- category
+        ['categoryLabel'] = 'rolls royce', -- Cat label
+        ['hash'] = `wraith`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['urus2018'] = {  --spawn code
+        ['name'] = 'urus 2018', -- car name
+        ['brand'] = 'lamborghini', -- car brand
+        ['model'] = 'urus2018', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'lamborghini', -- category
+        ['categoryLabel'] = 'lamborghini', -- Cat label
+        ['hash'] = `urus2018`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['tulenis'] = {  --spawn code
+        ['name'] = 'patrol 2022', -- car name
+        ['brand'] = 'Nissan', -- car brand
+        ['model'] = 'tulenis', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'Nissan', -- category
+        ['categoryLabel'] = 'Nissan', -- Cat label
+        ['hash'] = `tulenis`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['supra19'] = {  --spawn code
+        ['name'] = 'supra 2019', -- car name
+        ['brand'] = 'toyota', -- car brand
+        ['model'] = 'supra19', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'toyota', -- category
+        ['categoryLabel'] = 'toyota', -- Cat label
+        ['hash'] = `supra19`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['s65w222'] = {  --spawn code
+        ['name'] = 's65 2020', -- car name
+        ['brand'] = 'mercedes', -- car brand
+        ['model'] = 's65w222', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'mercedes', -- category
+        ['categoryLabel'] = 'mercedes', -- Cat label
+        ['hash'] = `s65w222`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['lp700'] = {  --spawn code
+        ['name'] = 'aventador 2012', -- car name
+        ['brand'] = 'lamborghini', -- car brand
+        ['model'] = 'lp700', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'lamborghini', -- category
+        ['categoryLabel'] = 'lamborghini', -- Cat label
+        ['hash'] = `lp700`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['huragucci'] = {  --spawn code
+        ['name'] = 'huracan 2013', -- car name
+        ['brand'] = 'lamborghini', -- car brand
+        ['model'] = 'huragucci', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'lamborghini', -- category
+        ['categoryLabel'] = 'lamborghini', -- Cat label
+        ['hash'] = `huragucci`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['03impa'] = {  --spawn code
+        ['name'] = 'impala 2003', -- car name
+        ['brand'] = 'chevy', -- car brand
+        ['model'] = '03impa', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'chevy', -- category
+        ['categoryLabel'] = 'chevy', -- Cat label
+        ['hash'] = `03impa`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
 }
