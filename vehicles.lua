@@ -1863,14 +1863,254 @@ QBShared.Vehicles = {
         ['hash'] = `vanzg8`, -- spawncode
         ['shop'] = 'pdm', -- shop name
     },
-	['03impa'] = {  --spawn code
-        ['name'] = 'impala 2003', -- car name
+	['gls63'] = {  --spawn code
+        ['name'] = 'gls63 2022', -- car name
+        ['brand'] = 'mercedes', -- car brand
+        ['model'] = 'gls63', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'mercedes', -- category
+        ['categoryLabel'] = 'mercedes', -- Cat label
+        ['hash'] = `gls63`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22caygt'] = {  --spawn code
+        ['name'] = 'cayenne 2022', -- car name
+        ['brand'] = 'porsche', -- car brand
+        ['model'] = '22caygt', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'porsche', -- category
+        ['categoryLabel'] = 'porsche', -- Cat label
+        ['hash'] = `22caygt`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22g63'] = {  --spawn code
+        ['name'] = 'g63 2022', -- car name
+        ['brand'] = 'mercedes', -- car brand
+        ['model'] = '22g63', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'mercedes', -- category
+        ['categoryLabel'] = 'mercedes', -- Cat label
+        ['hash'] = `22g63`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22jeeplar'] = {  --spawn code
+        ['name'] = 'grandcherokee 2022', -- car name
+        ['brand'] = 'jeep', -- car brand
+        ['model'] = '22jeeplar', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'jeep', -- category
+        ['categoryLabel'] = 'jeep', -- Cat label
+        ['hash'] = `22jeeplar`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22mac'] = {  --spawn code
+        ['name'] = 'mach e 2022', -- car name
+        ['brand'] = 'ford', -- car brand
+        ['model'] = '22mac', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ford', -- category
+        ['categoryLabel'] = 'ford', -- Cat label
+        ['hash'] = `22mac`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22mav'] = {  --spawn code
+        ['name'] = 'maverick 2022', -- car name
+        ['brand'] = 'ford', -- car brand
+        ['model'] = '22mav', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ford', -- category
+        ['categoryLabel'] = 'ford', -- Cat label
+        ['hash'] = `22mav`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22rs5'] = {  --spawn code
+        ['name'] = 'rs5 2022', -- car name
+        ['brand'] = 'audi', -- car brand
+        ['model'] = '22rs5', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'audi', -- category
+        ['categoryLabel'] = 'audi', -- Cat label
+        ['hash'] = `22rs5`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22silvlt'] = {  --spawn code
+        ['name'] = 'silverado 2500 2022', -- car name
         ['brand'] = 'chevy', -- car brand
-        ['model'] = '03impa', -- spawncode
+        ['model'] = '22silvlt', -- spawncode
         ['price'] = 1300000, -- price
         ['category'] = 'chevy', -- category
         ['categoryLabel'] = 'chevy', -- Cat label
-        ['hash'] = `03impa`, -- spawncode
+        ['hash'] = `22silvlt`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22toyotacom'] = {  --spawn code
+        ['name'] = 'tacoma 2022', -- car name
+        ['brand'] = 'toyota', -- car brand
+        ['model'] = '22toyotacom', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'toyota', -- category
+        ['categoryLabel'] = 'toyota', -- Cat label
+        ['hash'] = `22toyotacom`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['23ramtrx'] = {  --spawn code
+        ['name'] = 'ram trx 2022', -- car name
+        ['brand'] = 'dodge', -- car brand
+        ['model'] = '23ramtrx', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'dodge', -- category
+        ['categoryLabel'] = 'dodge', -- Cat label
+        ['hash'] = `23ramtrx`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['camry18'] = {  --spawn code
+        ['name'] = 'camry 2018', -- car name
+        ['brand'] = 'toyota', -- car brand
+        ['model'] = 'camry18', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'toyota', -- category
+        ['categoryLabel'] = 'toyota', -- Cat label
+        ['hash'] = `camry18`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['cesc21'] = {  --spawn code
+        ['name'] = 'escalade 2021', -- car name
+        ['brand'] = 'cadillac', -- car brand
+        ['model'] = 'cesc21', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'cadillac', -- category
+        ['categoryLabel'] = 'cadillac', -- Cat label
+        ['hash'] = `cesc21`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['ct5v'] = {  --spawn code
+        ['name'] = 'ct5 v 2023', -- car name
+        ['brand'] = 'cadillac', -- car brand
+        ['model'] = 'ct5v', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'cadillac', -- category
+        ['categoryLabel'] = 'cadillac', -- Cat label
+        ['hash'] = `ct5v`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['tahoe71'] = {  --spawn code
+        ['name'] = 'tahoe z71 2022', -- car name
+        ['brand'] = 'chevy', -- car brand
+        ['model'] = 'tahoe71', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'chevy', -- category
+        ['categoryLabel'] = 'chevy', -- Cat label
+        ['hash'] = `tahoe71`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22slowss'] = {  --spawn code
+        ['name'] = 'sierra ss 2006', -- car name
+        ['brand'] = 'gmc', -- car brand
+        ['model'] = '22slowss', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'gmc', -- category
+        ['categoryLabel'] = 'gmc', -- Cat label
+        ['hash'] = `22slowss`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['18lighting'] = {  --spawn code
+        ['name'] = 'f150 lighting', -- car name
+        ['brand'] = 'ford', -- car brand
+        ['model'] = '28lighting', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ford', -- category
+        ['categoryLabel'] = 'ford', -- Cat label
+        ['hash'] = `18lighting`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['70coronet'] = {  --spawn code
+        ['name'] = 'coronet 1970', -- car name
+        ['brand'] = 'dodge', -- car brand
+        ['model'] = '70coronet', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'dodge', -- category
+        ['categoryLabel'] = 'dodge', -- Cat label
+        ['hash'] = `70 coronet`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['2010flatbed'] = {  --spawn code
+        ['name'] = 'silverado flatbed 2010', -- car name
+        ['brand'] = 'chevy', -- car brand
+        ['model'] = '2010flatbed', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'chevy', -- category
+        ['categoryLabel'] = 'chevy', -- Cat label
+        ['hash'] = `2010flatbed`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['2020gt500'] = {  --spawn code
+        ['name'] = 'gt500 2020', -- car name
+        ['brand'] = 'ford', -- car brand
+        ['model'] = '2020gt500', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ford', -- category
+        ['categoryLabel'] = 'ford', -- Cat label
+        ['hash'] = `2020gt500`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['fhxo'] = {  --spawn code
+        ['name'] = 'waverunner 2020', -- car name
+        ['brand'] = 'yamaha', -- car brand
+        ['model'] = 'fxho', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'yamaha', -- category
+        ['categoryLabel'] = 'yamaha', -- Cat label
+        ['hash'] = `fxho`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['yz450'] = {  --spawn code
+        ['name'] = 'yfz450r 2020', -- car name
+        ['brand'] = 'yamaha', -- car brand
+        ['model'] = 'yz450', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'yamaha', -- category
+        ['categoryLabel'] = 'yamaha', -- Cat label
+        ['hash'] = `yz450`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['quad'] = {  --spawn code
+        ['name'] = 'raptor 660', -- car name
+        ['brand'] = 'yamaha', -- car brand
+        ['model'] = 'quad', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'yamaha', -- category
+        ['categoryLabel'] = 'yamaha', -- Cat label
+        ['hash'] = `quad`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['zip'] = {  --spawn code
+        ['name'] = '2stroke dio', -- car name
+        ['brand'] = 'honda', -- car brand
+        ['model'] = 'zip', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'honda', -- category
+        ['categoryLabel'] = 'honda', -- Cat label
+        ['hash'] = `zip`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['bcbanhsee'] = {  --spawn code
+        ['name'] = 'banshee 2006', -- car name
+        ['brand'] = 'yamaha', -- car brand
+        ['model'] = 'bcbanhsee', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'yamaha', -- category
+        ['categoryLabel'] = 'yamaha', -- Cat label
+        ['hash'] = `bcbanhsee`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['bcbansheed'] = {  --spawn code
+        ['name'] = 'banshee drag 2006', -- car name
+        ['brand'] = 'yamaha', -- car brand
+        ['model'] = 'bcbansheed', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'yamaha', -- category
+        ['categoryLabel'] = 'yamaha', -- Cat label
+        ['hash'] = `bcbansheed`, -- spawncode
         ['shop'] = 'pdm', -- shop name
     },
 }
