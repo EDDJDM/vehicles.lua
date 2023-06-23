@@ -2113,4 +2113,354 @@ QBShared.Vehicles = {
         ['hash'] = `bcbansheed`, -- spawncode
         ['shop'] = 'pdm', -- shop name
     },
+	['razerx3'] = {  --spawn code
+        ['name'] = 'maverick xrs', -- car name
+        ['brand'] = 'can-am', -- car brand
+        ['model'] = 'razerx3', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'can-am', -- category
+        ['categoryLabel'] = 'can-am', -- Cat label
+        ['hash'] = `razerx3`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['can'] = {  --spawn code
+        ['name'] = 'maverick x3', -- car name
+        ['brand'] = 'can-am', -- car brand
+        ['model'] = 'can', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'can-am', -- category
+        ['categoryLabel'] = 'can-am', -- Cat label
+        ['hash'] = `can`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['pjtrailer'] = {  --spawn code
+        ['name'] = '5th wheel trailer', -- car name
+        ['brand'] = 'car trailer', -- car brand
+        ['model'] = 'pjtrailer', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'car trailer', -- category
+        ['categoryLabel'] = 'car trailer', -- Cat label
+        ['hash'] = `pjtrailer`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['bmwg07'] = {  --spawn code
+        ['name'] = 'x7m 2023', -- car name
+        ['brand'] = 'bmw', -- car brand
+        ['model'] = 'bmwg07', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'bmw', -- category
+        ['categoryLabel'] = 'bmw', -- Cat label
+        ['hash'] = `bmwg07`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['xg632019'] = {  --spawn code
+        ['name'] = 'g63 2019', -- car name
+        ['brand'] = 'mercedes', -- car brand
+        ['model'] = 'xg632019', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'mercedes', -- category
+        ['categoryLabel'] = 'mercedes', -- Cat label
+        ['hash'] = `xg632019`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['m5abflug'] = {  --spawn code
+        ['name'] = 'm5 2020', -- car name
+        ['brand'] = 'bmw', -- car brand
+        ['model'] = 'm5abflug', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'bmw', -- category
+        ['categoryLabel'] = 'bmw', -- Cat label
+        ['hash'] = `m5abflug`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['hcdurangosc'] = {  --spawn code
+        ['name'] = 'durango 2020', -- car name
+        ['brand'] = 'dodge', -- car brand
+        ['model'] = 'hcdurangosc', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'dodge', -- category
+        ['categoryLabel'] = 'dodge', -- Cat label
+        ['hash'] = `hcdurangosc`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzgmc1'] = {  --spawn code
+        ['name'] = 'sierra1 2019', -- car name
+        ['brand'] = 'gmc', -- car brand
+        ['model'] = 'vanzgmc1', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'gmc', -- category
+        ['categoryLabel'] = 'gmc', -- Cat label
+        ['hash'] = `vanzgmc1`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzgmc4'] = {  --spawn code
+        ['name'] = 'sierra4 2019', -- car name
+        ['brand'] = 'gmc', -- car brand
+        ['model'] = 'vanzgmc4', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'gmc', -- category
+        ['categoryLabel'] = 'gmc', -- Cat label
+        ['hash'] = `vanzgmc4`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzgmc5'] = {  --spawn code
+        ['name'] = 'sierra5 2019', -- car name
+        ['brand'] = 'gmc', -- car brand
+        ['model'] = 'vanzgmc5', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'gmc', -- category
+        ['categoryLabel'] = 'gmc', -- Cat label
+        ['hash'] = `vanzgmc5`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzhawkwb'] = {  --spawn code
+        ['name'] = 'trackhawk 2016', -- car name
+        ['brand'] = 'jeep', -- car brand
+        ['model'] = 'vanzhawkwb', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'jeep', -- category
+        ['categoryLabel'] = 'jeep', -- Cat label
+        ['hash'] = `vanzhawkwb`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzhellw'] = {  --spawn code
+        ['name'] = 'hellcat wagon 2016', -- car name
+        ['brand'] = 'dodge', -- car brand
+        ['model'] = 'vanzhellw', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'dodge', -- category
+        ['categoryLabel'] = 'dodge', -- Cat label
+        ['hash'] = `vanzhellw`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzhuracan'] = {  --spawn code
+        ['name'] = 'huracan 2017', -- car name
+        ['brand'] = 'lamborghini', -- car brand
+        ['model'] = 'vanzhuracan', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'lamborghini', -- category
+        ['categoryLabel'] = 'lamborghini', -- Cat label
+        ['hash'] = `vanzhuracan`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzif'] = {  --spawn code
+        ['name'] = 'q50 drift 2019', -- car name
+        ['brand'] = 'infiniti', -- car brand
+        ['model'] = 'vanzif', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'infiniti', -- category
+        ['categoryLabel'] = 'infiniti', -- Cat label
+        ['hash'] = `vanzif`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzimpalacon'] = {  --spawn code
+        ['name'] = 'impala 1964', -- car name
+        ['brand'] = 'chevy', -- car brand
+        ['model'] = 'vanzimpalacon', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'chevy', -- category
+        ['categoryLabel'] = 'chevy', -- Cat label
+        ['hash'] = `vanzimpalacon`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzjeep'] = {  --spawn code
+        ['name'] = 'wrangler', -- car name
+        ['brand'] = 'jeep', -- car brand
+        ['model'] = 'vanzjeep', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'jeep', -- category
+        ['categoryLabel'] = 'jeep', -- Cat label
+        ['hash'] = `vanzjeep`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzlp700'] = {  --spawn code
+        ['name'] = 'aventador', -- car name
+        ['brand'] = 'lamborghini', -- car brand
+        ['model'] = 'vanzlp700', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'lamborghini', -- category
+        ['categoryLabel'] = 'lamborghini', -- Cat label
+        ['hash'] = `vanzlp700`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzr8'] = {  --spawn code
+        ['name'] = 'r8', -- car name
+        ['brand'] = 'audi', -- car brand
+        ['model'] = 'vanzr8', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'audi', -- category
+        ['categoryLabel'] = 'audi', -- Cat label
+        ['hash'] = `vanzr8`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzredd'] = {  --spawn code
+        ['name'] = 'hellcat durango', -- car name
+        ['brand'] = 'dodge', -- car brand
+        ['model'] = 'vanzredd', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'dodge', -- category
+        ['categoryLabel'] = 'dodge', -- Cat label
+        ['hash'] = `vanzredd`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzs1k'] = {  --spawn code
+        ['name'] = 's1000rr', -- car name
+        ['brand'] = 'bmw', -- car brand
+        ['model'] = 'vanzs1k', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'bmw', -- category
+        ['categoryLabel'] = 'bmw', -- Cat label
+        ['hash'] = `vanzs1k`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanz450'] = {  --spawn code
+        ['name'] = 'bagged f450 dually', -- car name
+        ['brand'] = 'ford', -- car brand
+        ['model'] = 'vanzf450', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ford', -- category
+        ['categoryLabel'] = 'ford', -- Cat label
+        ['hash'] = `vanzf450`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanz745'] = {  --spawn code
+        ['name'] = '745 2023', -- car name
+        ['brand'] = 'bmw', -- car brand
+        ['model'] = 'vanz745', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'bmw', -- category
+        ['categoryLabel'] = 'bmw', -- Cat label
+        ['hash'] = `vanz745`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzchevy'] = {  --spawn code
+        ['name'] = 'silverado low 1995', -- car name
+        ['brand'] = 'chevy', -- car brand
+        ['model'] = 'vanzchevy', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'chevy', -- category
+        ['categoryLabel'] = 'chevy', -- Cat label
+        ['hash'] = `vanzchevy`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzchevyd'] = {  --spawn code
+        ['name'] = 'silverado bagged', -- car name
+        ['brand'] = 'chevy', -- car brand
+        ['model'] = 'vanzchevyd', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'chevy', -- category
+        ['categoryLabel'] = 'chevy', -- Cat label
+        ['hash'] = `vanzchevyd`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzglad'] = {  --spawn code
+        ['name'] = 'gladiator', -- car name
+        ['brand'] = 'jeep', -- car brand
+        ['model'] = 'vanzglad', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'jeep', -- category
+        ['categoryLabel'] = 'jeep', -- Cat label
+        ['hash'] = `vanzglad`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['vanzglads'] = {  --spawn code
+        ['name'] = 'gladiator low', -- car name
+        ['brand'] = 'jeep', -- car brand
+        ['model'] = 'vanzglads', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'jeep', -- category
+        ['categoryLabel'] = 'jeep', -- Cat label
+        ['hash'] = `vanzglads`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['21sierra'] = {  --spawn code
+        ['name'] = 'sierra 2021', -- car name
+        ['brand'] = 'gmc', -- car brand
+        ['model'] = '21sierra', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'gmc', -- category
+        ['categoryLabel'] = 'gmc', -- Cat label
+        ['hash'] = `21sierra`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['21subur'] = {  --spawn code
+        ['name'] = 'suburban 2021', -- car name
+        ['brand'] = 'chevy', -- car brand
+        ['model'] = '21subur', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'chevy', -- category
+        ['categoryLabel'] = 'chevy', -- Cat label
+        ['hash'] = `21subur`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['21yukon'] = {  --spawn code
+        ['name'] = 'yukon 2021', -- car name
+        ['brand'] = 'gmc', -- car brand
+        ['model'] = '21yukon', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'gmc', -- category
+        ['categoryLabel'] = 'gmc', -- Cat label
+        ['hash'] = `21yukon`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22bengt'] = {  --spawn code
+        ['name'] = 'continental gt 2022', -- car name
+        ['brand'] = 'bentley', -- car brand
+        ['model'] = '22bengt', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'bentley', -- category
+        ['categoryLabel'] = 'bentley', -- Cat label
+        ['hash'] = `22bengt`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22f450'] = {  --spawn code
+        ['name'] = 'f450 dually 2022', -- car name
+        ['brand'] = 'ford', -- car brand
+        ['model'] = '22f450', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'ford', -- category
+        ['categoryLabel'] = 'ford', -- Cat label
+        ['hash'] = `22f450`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22jeep'] = {  --spawn code
+        ['name'] = 'grandcherokee 2022', -- car name
+        ['brand'] = 'jeep', -- car brand
+        ['model'] = '22jeep', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'jeep', -- category
+        ['categoryLabel'] = 'jeep', -- Cat label
+        ['hash'] = `22jeep`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22navi'] = {  --spawn code
+        ['name'] = 'navigator 2022', -- car name
+        ['brand'] = 'lincoln', -- car brand
+        ['model'] = '22navi', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'lincoln', -- category
+        ['categoryLabel'] = 'lincoln', -- Cat label
+        ['hash'] = `22navi`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['22silvltz'] = {  --spawn code
+        ['name'] = 'silverado 2500hd 2022', -- car name
+        ['brand'] = 'chevy', -- car brand
+        ['model'] = '22silvltz', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'chevy', -- category
+        ['categoryLabel'] = 'chevy', -- Cat label
+        ['hash'] = `22silvltz`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
+	['bc052500'] = {  --spawn code
+        ['name'] = 'sierra 2006', -- car name
+        ['brand'] = 'gmc', -- car brand
+        ['model'] = 'bc052500', -- spawncode
+        ['price'] = 1300000, -- price
+        ['category'] = 'gmc', -- category
+        ['categoryLabel'] = 'gmc', -- Cat label
+        ['hash'] = `bc052500`, -- spawncode
+        ['shop'] = 'pdm', -- shop name
+    },
 }
